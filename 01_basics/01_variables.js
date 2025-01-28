@@ -14,6 +14,8 @@ accountCity="indore"
 console.log(accountId);
 console.log(accountEmail);
 console.log(accountPassword);
+console.log(accountPassword);
+console.log(accountPassword);
 
 /*
 do not use var to declare variables
