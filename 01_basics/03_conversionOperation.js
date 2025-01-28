@@ -73,3 +73,52 @@
 // console.log(stringNumber);
 
 // console.log(typeof(stringNumber))
+
+
+//**************************************** OPERATIONS **********************************************************************
+
+
+// let value =3
+// let negvalue=-value
+// console.log(negvalue)
+
+// let a=13
+// let b=4
+// console.log(a+b)
+// console.log(a-b)
+// console.log(a*b)
+// console.log(a/b)
+// console.log(a**b)
+// console.log(a%b)
+
+
+// let str1="hello"
+// let str2=" Tushar"
+
+// let str3=str1+str2
+// console.log(str3)
+
+
+// console.log("1" +2)
+// console.log(1 +"2")
+// console.log("1" +2+2)
+// console.log(1 +2+"2")
+
+
+// let num1,num2,num3
+
+// num1=num2=num3=2+2
+
+// console.log(num1)
+
+// let gameCounter=100
+// ++gameCounter;
+// console.log(gameCounter);
+
+
+
+
+
+
+
+
