@@ -69,3 +69,23 @@ const myFunction=function(){
 }
 
 console.log(typeof bigNumber)
+
+
+
+
+//+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+/*
+stack(Primitive)
+Heap(Non-Primitive)
+*/
+
+let myGitName ="Tushar1803198"
+let anotherName =myGitName
+anotherName ="Cofeewithcode"
+
+
+console.log(myGitName)
+console.log(anotherName)
