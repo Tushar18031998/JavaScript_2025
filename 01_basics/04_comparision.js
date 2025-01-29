@@ -10,7 +10,6 @@
 // console.log(null<0);
 // console.log(null>0)
 
-
 // console.log(null>=0) //true
 
 /* note:-  The reson is that an equality check== and comparisons> < >= <= work differently
@@ -25,7 +24,7 @@ null>0 is false
 // console.log(undefined<0)
 // console.log(undefined>0)
 
-
 //      ===
 
-console.log("2"===2)
+// console.log("2" === 2);
+
